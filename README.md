@@ -5,8 +5,4 @@
 - 📫 How to reach me, dm discord huturen
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Started using gethub because i kept losing my flashdrive with all of my school projects on them.
-
-<!---
-HuTuRen1/HuTuRen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Projects that are created by me will be posted appropriatly either in public or private depending on the matter of where i recieved the task from.
