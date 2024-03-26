@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on Useless projects that may look good on a resume
 - 📫 How to reach me, dm discord huturen
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Started using gethub because i kept losing my flashdrive with all of my school projects on them.
+- ⚡ Fun fact: Started using github because i kept losing my flashdrive with all of my school projects on them.
 - Projects that are created by me will be posted appropriatly either in public or private depending on the matter of where i recieved the task from.
